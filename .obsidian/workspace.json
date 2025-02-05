@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3e03eb3cb444c772",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3a4d7e01cac4a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758a2a6d1873030d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7197c477f9e4d97",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d0164d50bd94a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02907d071470f8b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b99e5a5c2aab397",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4dd27cc3bb050129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0e8ff0f5d8cdf7f6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "912242e57867fc43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e160740cde7d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8138560b4bae4309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "논문/NeRF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NeRF"
+            }
+          },
+          {
+            "id": "a1e1fbad3ccbbcd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "논문/NeRF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NeRF"
+            }
+          },
+          {
+            "id": "1219c3cd33949476",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9093b23b6f44d32b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "논문/NeRF.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NeRF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0e8ff0f5d8cdf7f6",
+  "lastOpenFiles": [
+    "논문/NeRF/Local Light Field Fusion.md",
+    "논문/NeRF/(NeRF-W) Neural Radiance Field in the Wild.md",
+    "논문/NeRF/(NeRF) Representing Scenes as Neural Radiance Fields for Visual Synthesis.md",
+    "논문/NeRF/NeRF.md",
+    "논문/논문.md",
+    "논문/NeRF/PlenOctrees for Real-time Rendering of Neural Radiance Fields.md",
+    "논문/NeRF/(Mip-NeRF) A Multiscale Representation for Anti-Aliasing Neural Radiance Fields.md",
+    "논문/NeRF.md",
+    "논문/NeRF",
+    "논문/Untitled.md",
+    "Tags",
+    "논문.md",
+    "논문"
+  ]
+}
