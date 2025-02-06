@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "0e8ff0f5d8cdf7f6",
+            "id": "42a99d66e7b5b974",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -173,11 +173,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e8ff0f5d8cdf7f6",
+  "active": "42a99d66e7b5b974",
   "lastOpenFiles": [
     "논문/NeRF/Local Light Field Fusion.md",
-    "논문/NeRF/(NeRF-W) Neural Radiance Field in the Wild.md",
+    "Homomorphic Encryption/HE Core/uSVP.png",
+    "Homomorphic Encryption/HE Core/min_distance.png",
+    "Homomorphic Encryption/HE Core/approxi_SVP.png",
+    "Homomorphic Encryption/HE Core/Pasted_image_20241113130554.png",
+    "Homomorphic Encryption/HE Core/HE Core.md",
+    "Homomorphic Encryption/HE Core/GapSVP.png",
+    "Homomorphic Encryption/HE Core/Bootstrapping.png",
+    "Homomorphic Encryption/HE Core/3. Fully Homomorphic Encryption.md",
+    "Homomorphic Encryption/HE Core/2. Lattices.md",
+    "Homomorphic Encryption/HE Core/1. Number Theory.md",
+    "Homomorphic Encryption/HE Core",
+    "Homomorphic Encryption/Homomorphic Encryption.md",
+    "Homomorphic Encryption/HEAI/얼굴 인식.md",
+    "Homomorphic Encryption/HEAI/SqueezeNet (CIFAR10).md",
+    "Homomorphic Encryption/HEAI/SimpleCNN (MNIST).md",
+    "Homomorphic Encryption/HEAI/HEAI.md",
+    "Homomorphic Encryption/HEAI",
+    "Homomorphic Encryption",
     "논문/NeRF/(NeRF) Representing Scenes as Neural Radiance Fields for Visual Synthesis.md",
+    "Tags",
+    "논문/NeRF/(NeRF-W) Neural Radiance Field in the Wild.md",
     "논문/NeRF/NeRF.md",
     "논문/논문.md",
     "논문/NeRF/PlenOctrees for Real-time Rendering of Neural Radiance Fields.md",
@@ -185,7 +204,6 @@
     "논문/NeRF.md",
     "논문/NeRF",
     "논문/Untitled.md",
-    "Tags",
     "논문.md",
     "논문"
   ]
