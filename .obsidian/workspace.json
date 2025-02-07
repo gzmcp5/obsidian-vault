@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "42a99d66e7b5b974",
+            "id": "841ff4f8117fa883",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,13 +152,23 @@
               "icon": "lucide-list",
               "title": "Outline of NeRF"
             }
+          },
+          {
+            "id": "069b5966cac14b5b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42a99d66e7b5b974",
+  "active": "4dd27cc3bb050129",
   "lastOpenFiles": [
+    "Tags",
     "논문/NeRF/Local Light Field Fusion.md",
     "Homomorphic Encryption/HE Core/uSVP.png",
     "Homomorphic Encryption/HE Core/min_distance.png",
@@ -195,7 +206,6 @@
     "Homomorphic Encryption/HEAI",
     "Homomorphic Encryption",
     "논문/NeRF/(NeRF) Representing Scenes as Neural Radiance Fields for Visual Synthesis.md",
-    "Tags",
     "논문/NeRF/(NeRF-W) Neural Radiance Field in the Wild.md",
     "논문/NeRF/NeRF.md",
     "논문/논문.md",
