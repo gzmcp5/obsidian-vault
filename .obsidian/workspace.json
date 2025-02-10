@@ -11,10 +11,14 @@
             "id": "e7e84aa109db596b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "국책과제 아이템 제안 (Physical AI & 4D Scene Generation)"
             }
           }
         ]
@@ -168,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +189,10 @@
   },
   "active": "e7e84aa109db596b",
   "lastOpenFiles": [
+    "국책과제 아이템 제안 (Physical AI & 4D Scene Generation).pdf",
+    "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
     "논문/NeRF/Local Light Field Fusion.md",
     "conflict-files-obsidian-git.md",
-    "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
     "기타/기타.md",
     "기타/PhyScene.png",
     "기타",
