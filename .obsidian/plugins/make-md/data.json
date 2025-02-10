@@ -35,10 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
-    "//논문/논문/NeRF",
-    "//논문"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -50,6 +47,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -69,11 +68,11 @@
   "indexSVG": false,
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "releaseNotesPrompt": 0.999,
+  "releaseNotesPrompt": 0.8,
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "github-vault",
+  "systemName": "Vault",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
@@ -84,7 +83,7 @@
   "enhancedLogs": false,
   "basics": true,
   "basicsSettings": null,
-  "firstLaunch": true,
+  "firstLaunch": false,
   "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false
