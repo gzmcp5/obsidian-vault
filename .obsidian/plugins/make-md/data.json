@@ -37,7 +37,8 @@
   "expandedSpaces": [
     "/",
     "//Tags",
-    "//논문/논문/NeRF"
+    "//논문/논문/NeRF",
+    "//논문"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

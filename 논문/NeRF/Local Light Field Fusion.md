@@ -15,10 +15,10 @@ sticker: emoji//1f5d2-fe0f
 - 장면을 Light Field로 촬영하고 시점을 보간하여 새로운 시점을 렌더링 할 수 있다. (간단한 방법)
 	- Light Field 전략은 IBR(Image-Based Rendering)의 문제로 다룰 수 있고, 이는 샘플링 시점의 밀도와 패턴을 직접 추론 가능
 	- 그러나 Nyquist 샘플링 이론에 따라 물체가 카메라에 가까울수록 필요한 이미지의 수가 기하급수적으로 증가
-		- 예) 카메라 FoV(64), 해상도(1M), 물체 거리(0.5m) 일 때 필요한 sampling rate : $1m^2$당 2.5M개의 이미지 필요 --> 실현 불가능
+		- 예) 카메라 FoV(64°), 해상도(1M), 물체 거리(0.5m) 일 때 필요한 sampling rate : $1m^2$당 2.5M개의 이미지 필요 --> 실현 불가능
 	- 그래서 Light Field 대신 Geometric estimation을 활용하는 방향으로 바뀌고 있음
 - **SOTA 알고리즘** : 임의의 sparse grid 시점 이미지들로 새로운 시점을 예측
-	- 이 방법은 plenoptic 프레임워크와 달리, 시점 샘플링 방법와 그에 따른 결과 성능의 예측이 어렵기 때문에, trial and error 방법을 사용하게 된다.
+	- 이 방법은 Plenoptic 프레임워크와 달리, 시점 샘플링 방법와 그에 따른 결과 성능의 예측이 어렵기 때문에, trial and error 방법을 사용하게 된다.
 - **제안 방법** : Plenoptic 샘플링 프레임워크에 기반하면서 사용자가 어떤 밀도로 장면을 촬영해야 하는지를 결정할 수 있음
 	- 촬영된 시점 이미지를 딥러닝을 사용하여 layered representation으로 표현
 	- MultiPlane Image(MPI) 사용
