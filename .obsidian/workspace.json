@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6aea0be0f1d7f9",
+        "id": "4b2fed1064320280",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e84aa109db596b",
+            "id": "91379dd0f9a81556",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "03a66c787e81d328",
+            "id": "eb47064f15a9962b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -187,10 +187,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7e84aa109db596b",
+  "active": "91379dd0f9a81556",
   "lastOpenFiles": [
-    "국책과제 아이템 제안 (Physical AI & 4D Scene Generation).pdf",
+    "기타/PhysComp.png",
     "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
+    "기타/videoframe_5811.png.crdownload",
+    "기타/PhysComp.mp4",
+    "기타/NeRF2Physics.png",
+    "기타/NeRF2Physics_2.png",
+    "기타/NeRF2Physics_1.png",
+    "국책과제 아이템 제안 (Physical AI & 4D Scene Generation).pdf",
     "논문/NeRF/Local Light Field Fusion.md",
     "conflict-files-obsidian-git.md",
     "기타/기타.md",
@@ -205,7 +211,6 @@
     "Homomorphic Encryption/HE Core/Pasted_image_20241113130554.png",
     "Homomorphic Encryption/HE Core/HE Core.md",
     "Homomorphic Encryption/HE Core/GapSVP.png",
-    "Homomorphic Encryption/HE Core/Bootstrapping.png",
     "Homomorphic Encryption/HE Core/3. Fully Homomorphic Encryption.md",
     "Homomorphic Encryption/HE Core/2. Lattices.md",
     "Homomorphic Encryption/HE Core/1. Number Theory.md",
