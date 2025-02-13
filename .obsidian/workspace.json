@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2fed1064320280",
+        "id": "8a95627f5f77758b",
         "type": "tabs",
         "children": [
           {
-            "id": "91379dd0f9a81556",
+            "id": "b9ff4c0ee3cc3fb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "국책과제 아이템 제안 (Physical AI & 4D Scene Generation)"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "eb47064f15a9962b",
+            "id": "3e1a02e202961cd1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -187,23 +183,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91379dd0f9a81556",
+  "active": "b9ff4c0ee3cc3fb5",
   "lastOpenFiles": [
-    "기타/PhysComp.png",
-    "기타/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
+    "기타/OS 환경설정/MacOS Initial Setting.md",
+    "기타/OS 환경설정/OS 환경설정.md",
+    "기타/MacOS Initial Setting.md",
+    "MacOS Initial Setting.md",
+    "기타/OS 환경설정/Untitled.md",
+    "국책과제 아이템 제안 (Physical AI)/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).pdf",
+    "기타/OS 환경설정",
+    "국책과제 아이템 제안 (Physical AI)/NeRF2Physics.png",
+    "기타/기타.md",
+    "국책과제 아이템 제안 (Physical AI)/국책과제 아이템 제안 (Physical AI).md",
+    "국책과제 아이템 제안 (Physical AI)",
+    "기타/Untitled.md",
+    "국책과제 아이템 제안 (Physical AI)/PhysComp.png",
+    "국책과제 아이템 제안 (Physical AI)/국책과제 아이템 제안 (Physical AI & 4D Scene Generation).md",
+    "Tags",
     "기타/videoframe_5811.png.crdownload",
     "기타/PhysComp.mp4",
-    "기타/NeRF2Physics.png",
     "기타/NeRF2Physics_2.png",
     "기타/NeRF2Physics_1.png",
-    "국책과제 아이템 제안 (Physical AI & 4D Scene Generation).pdf",
     "논문/NeRF/Local Light Field Fusion.md",
     "conflict-files-obsidian-git.md",
-    "기타/기타.md",
-    "기타/PhyScene.png",
+    "국책과제 아이템 제안 (Physical AI)/PhyScene.png",
     "기타",
     "Vault.md",
-    "Tags",
     "논문/NeRF/NeRF.md",
     "Homomorphic Encryption/HE Core/uSVP.png",
     "Homomorphic Encryption/HE Core/min_distance.png",
@@ -225,12 +230,6 @@
     "논문/NeRF/(NeRF) Representing Scenes as Neural Radiance Fields for Visual Synthesis.md",
     "논문/NeRF/(NeRF-W) Neural Radiance Field in the Wild.md",
     "논문/논문.md",
-    "논문/NeRF/PlenOctrees for Real-time Rendering of Neural Radiance Fields.md",
-    "논문/NeRF/(Mip-NeRF) A Multiscale Representation for Anti-Aliasing Neural Radiance Fields.md",
-    "논문/NeRF.md",
-    "논문/NeRF",
-    "논문/Untitled.md",
-    "논문.md",
-    "논문"
+    "논문/NeRF/PlenOctrees for Real-time Rendering of Neural Radiance Fields.md"
   ]
 }
